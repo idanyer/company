@@ -1,5 +1,6 @@
-import logo from '../imgs/logo.svg';
-import './index.less';
+import React from "react";
+import logo from "../imgs/logo.svg";
+import "./index.less";
 
 function App() {
   return (
