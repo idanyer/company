@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "normalize.css";
 import "./index.less";
-import App from "./pages";
+import App from "./pages/index";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
